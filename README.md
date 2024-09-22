@@ -1,4 +1,6 @@
-Data Science Internship Tasks - The Sparks Foundation
+# Data Science Internship Tasks - The Sparks Foundation
+
+
 This repository contains the tasks completed during my Data Science Internship with The Sparks Foundation as part of their Graduate Rotational Internship Program (GRIP). Each task demonstrates various aspects of data science, machine learning, and analytics.
 Task 1: Linear Regression for Student Performance Prediction
 
