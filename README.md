@@ -6,11 +6,11 @@ Each task demonstrates various aspects of data science, machine learning, and an
 
 ## Task 1: Linear Regression for Student Performance Prediction
 
-Implement a linear regression model to predict student scores based on study hours.
-Use Python and relevant libraries (e.g., scikit-learn, pandas, matplotlib).
-Visualize the relationship between study hours and scores.
-Predict the score for a student studying 9.25 hours/day.
-Dataset: http://bit.ly/w-data
+* Implement a linear regression model to predict student scores based on study hours.
+* Use Python and relevant libraries (e.g., scikit-learn, pandas, matplotlib).
+* Visualize the relationship between study hours and scores.
+* Predict the score for a student studying 9.25 hours/day.
+* Dataset: http://bit.ly/w-data
 
 ## Task 2: Unsupervised Learning with K-Means Clustering
 
